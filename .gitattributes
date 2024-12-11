@@ -1,3 +1,4 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
 Datasets/universal_top_spotify_songs.csv filter=lfs diff=lfs merge=lfs -text
 Datasets/canciones.csv filter=lfs diff=lfs merge=lfs -text
 Datasets/SaludMental.csv filter=lfs diff=lfs merge=lfs -text
